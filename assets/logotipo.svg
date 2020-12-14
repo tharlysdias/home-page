@@ -1,0 +1,18 @@
+<svg width="150" height="150" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="152" width="152" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke="#000000" ry="43.5" rx="43.5" id="svg_5" cy="51.5" cx="75" stroke-width="0" fill="#ffffff"/>
+  <text stroke="#000" transform="matrix(1.0239952961415468,0,0,1.0239952961415468,-199.8908021753389,-206.18893916910542) " xml:space="preserve" text-anchor="start" font-family="'League Gothic', sans-serif" font-size="24" id="svg_3" y="316.35805" x="244.43245" stroke-width="0" fill="#ffffff">Tharlys</text>
+  <text stroke="#000" transform="matrix(1.0334113220797176,0,0,1.0334113220797176,-166.31768099708967,-196.01378278865812) " xml:space="preserve" text-anchor="start" font-family="'League Gothic', sans-serif" font-size="24" id="svg_4" y="327.65645" x="219.21005" stroke-width="0" fill="#ffffff">Dias</text>
+  <text font-weight="bold" stroke="#000" transform="matrix(2.963798278101728,0,0,2.963798278101728,-898.8162562014135,-573.4084005191711) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="221.04963" x="321.23642" stroke-width="0" fill="#1d1f27">T</text>
+ </g>
+</svg>
